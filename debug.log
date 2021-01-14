@@ -1,0 +1,5 @@
+[1022/181348.076:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Vishal\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\6caf0fde-0c74-4d57-ba6c-b648338d0aa0: The system cannot find the path specified. (0x3)
+[1022/181348.078:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1023/220310.545:ERROR:process_reader_win.cc(127)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[1023/220310.670:ERROR:exception_snapshot_win.cc(100)] thread ID 13704 not found in process
+[1023/220312.139:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Vishal\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\06ae2d12-60b8-4a72-bf77-e3b627dc6c71: The system cannot find the path specified. (0x3)
